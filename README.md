@@ -1,6 +1,6 @@
-**AI-Fitness-Tracker**
+__**AI-Fitness-Tracker**__
 
-*Overview*
+_*Overview*_
 The Workout Correction System is a real-time application designed to assist users in maintaining correct form during various exercises. It utilizes the MediaPipe library for pose estimation and OpenCV for video processing. The system can track and count repetitions for exercises such as squats, lat raises, bicep curls, push-ups, shoulder presses, and sit-ups, ensuring that users perform exercises with the correct posture.
 
 *Features*
